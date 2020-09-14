@@ -4,7 +4,7 @@ This repo contains some benchmark scripts which I'm not sure where to put is sui
 
 # Usage
 
-1. Setup Cyclone DDS environment and configuration.
+1. Setup Cyclone DDS and iceoryx environment and configuration.
 2. Run test script:
 
 ```
